@@ -1,5 +1,5 @@
 ---
-author: Satellite
+author: Satellite ne kita
 title: ਐਸਟਰੋ ਥੀਮ ਨੂੰ ਕਨਫਿੱਗਰ ਕਿਵੇਂ ਕਰੀਏ?
 slug: how-to-configure-astropaper-theme
 featured: true
