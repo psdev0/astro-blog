@@ -1,5 +1,5 @@
 ---
-author: Satellite
+author: Sat Naing
 title: AstroPaper 4.0.x
 ogImage: ../../assets/images/AstroPaper-v4.png
 slug: astro-paper-v4
